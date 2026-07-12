@@ -17,6 +17,7 @@ Sinta-se à vontade para usar como inspiração, clonar ou modificar para deixar
 Antes de aplicar a configuração, certifique-se de ter instalado:
 * **Fastfetch** (versão estável mais recente)
 * Um terminal com suporte a imagens via protocolo Kitty (Recomendado: **Kitty**)
+  > 🚀 **Dica:** Se você ainda não tem ou não sabe como configurar, veja o meu **[Guia Completo de Instalação e Configuração do Kitty Terminal](https://github.com/PalomaGLima/Kitty-no-Bazzite)**.
 * Uma fonte com suporte a ícones instalada no sistema (Recomendado: **JetBrainsMono Nerd Font** ou qualquer outra [Nerd Font](https://www.nerdfonts.com/))
 
 ---

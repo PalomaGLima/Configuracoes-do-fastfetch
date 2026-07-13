@@ -151,9 +151,8 @@ Adicionar:
 
 Resultado esperado:
 
-```
+
 [Ícone] SEU-USUARIO
-```
 
 ---
 

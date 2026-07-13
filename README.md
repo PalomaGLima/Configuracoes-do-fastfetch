@@ -4,7 +4,7 @@ Este repositório está dividido em duas pastas principais para facilitar a loca
 
 ---
 
-### 🎨 1. Pasta `/Configfastfetch` (Configurações do Sistema)
+### 🎨 1. Pasta `Config fastfetch` (Configurações do Sistema)
 Esta pasta contém todos os arquivos de script e estruturação para deixar as informações do seu sistema organizadas e elegantes.
 
 * **`config.jsonc`**: O arquivo de configuração principal do Fastfetch. Ele define quais informações do seu computador serão exibidas (como CPU, GPU, RAM, Uptime e Distribuição) e organiza esses dados dentro de blocos visuais estilizados (com bordas de caixas `┌─`, `│`, `└─`).

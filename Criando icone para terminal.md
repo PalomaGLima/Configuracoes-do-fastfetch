@@ -2,6 +2,9 @@
 
 Este guia mostra como transformar uma imagem PNG em um ícone de fonte (`\uE900`) para usar no terminal junto com o Fastfetch.
 
+## 📸 Pré-visualização
+
+![Preview do Terminal](imagemkitty.png)
 ---
 
 # 📌 Fluxo do processo
@@ -233,10 +236,6 @@ Fastfetch
 ```
 
 Agora seu terminal possui um ícone personalizado.
-
-## 📸 Pré-visualização
-
-![Preview do Terminal](imagemkitty.png)
 
 ## 🤝 Contribuições e Feedback
 

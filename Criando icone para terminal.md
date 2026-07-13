@@ -59,8 +59,6 @@ Passos:
 
 Import Icons
 
-```
-```
 3. Escolha seu SVG
 
 4. Clique no ícone
@@ -68,28 +66,21 @@ Import Icons
 5. Vá em:
 
 Font → Generate Font
-```
-```
+
 6. Defina o código Unicode:
 
 Exemplo:
 
 E900
 
-```
-```
 Resultado:
 \uE900
 
-````
-
 7. Baixe a fonte
-
----
+```
 
 # 4. Instalar a fonte no Linux
 
-```
 Passos:
 
 1. Abra o seu Kitty

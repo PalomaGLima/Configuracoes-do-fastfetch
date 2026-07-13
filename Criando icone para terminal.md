@@ -29,7 +29,7 @@ Usar no Fastfetch
 
 Entre no site e escolha um icone da sua preferencia.
 
-## Sites para escolher o icone.
+## Site para escolher o icone.
 
 🔗 Link:
 https://www.flaticon.com/search?word=cobra

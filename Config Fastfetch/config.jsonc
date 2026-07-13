@@ -1,0 +1,168 @@
+{
+    "logo": {
+        "source": "~/.config/fastfetch/imagem-de-sua escolha.jpg",
+        "type": "kitty",
+        "height": 16,
+        "padding": {
+            "top": 0
+        }
+    },
+    "display": {
+    "separator": " ",
+    "key": {
+        "width": 22
+    }
+},
+
+    "modules": [
+        {
+            "type": "custom",
+            "format": "\u001b[32m ☠ \u001b[0m \u001b[1mSEU_USUARIO\u001b[0m"
+        },
+
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[32m┌─\u001b[0m"
+        },
+
+        {
+            "type": "os",
+            "key": "│  distro",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "kernel",
+            "key": "│  kernel",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "packages",
+            "key": "│ 󰏖 pkgs",
+            "format": "{} (rpm-ostree)",
+            "keyColor": "green"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[32m└─\u001b[0m"
+        },
+
+
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[32m┌─\u001b[0m"
+        },
+
+        {
+            "type": "uptime",
+            "key": "│ 󰅐 uptime",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "wm",
+            "key": "│ 󰖲 wm",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "terminal",
+            "key": "│ 󰄛 term",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "shell",
+            "key": "│  shell",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "custom",
+            "format": "\u001b[32m└─\u001b[0m"
+        },
+
+
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[32m┌─\u001b[0m"
+        },
+
+        {
+            "type": "command",
+            "key": "│  deployment",
+            "text": "echo 'idle'",
+            "keyColor": "green"
+        },
+        {
+            "type": "command",
+            "key": "│  time",
+            "text": "date +%H:%M",
+            "keyColor": "green"
+        },
+        {
+            "type": "command",
+            "key": "│ 󰃭 date",
+            "text": "date +%d/%m/%Y",
+            "keyColor": "green"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[32m└─\u001b[0m"
+        },
+
+        "break",
+        {
+            "type": "custom",
+            "format": "\u001b[32m┌─\u001b[0m"
+        },
+
+        {
+            "type": "cpu",
+            "key": "│  cpu",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "gpu",
+            "key": "│ 󰢮 gpu",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "display",
+            "key": "│ 󰍹 monitor",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "memory",
+            "key": "│ 󰑭 memory",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "disk",
+            "folders": "/",
+            "key": "│  root",
+            "keyColor": "green"
+        },
+
+        {
+            "type": "disk",
+            "folders": "/home",
+            "key": "│  home",
+            "keyColor": "green"
+        },
+        {
+            "type": "custom",
+            "format": "\u001b[32m└─\u001b[0m"
+        },
+
+        "break"
+    ]
+}

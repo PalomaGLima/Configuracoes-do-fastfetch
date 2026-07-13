@@ -94,9 +94,9 @@ mkdir -p ~/.local/share/fonts
 2. Coloque o icomoon.zip na pasta /var/home/SEU-USUARIO/.local/share/fonts/
 
 3. dentro do fonts extraia seu o arquivo icomoon.zip
-
+```
 # 5. Verificar se o ícone existe
-
+```
 Ver fontes instaladas:
 
 --bash--
@@ -115,10 +115,10 @@ A fonte possui o ícone.
 ```
 ---
 # 6. Testar o ícone
-
+```
 Terminal:
 
-```bash
+--bash--
 echo -e "\ue900"
 ```
 

@@ -31,7 +31,6 @@ Entre no site e escolha um icone da sua preferencia.
 
 ## Sites para escolher o icone.
 
-### Opção 1:
 🔗 Link:
 https://www.flaticon.com/search?word=cobra
 

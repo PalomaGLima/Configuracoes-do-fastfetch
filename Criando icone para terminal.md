@@ -101,21 +101,18 @@ Ver fontes instaladas:
 
 ```bash
 fc-list
-```
 
 Verificar Unicode:
 
 ```bash
 fc-query --format='%{charset}\n' ~/.local/share/fonts/icomoon/fonts/icomoon.ttf
-```
+
 Se aparecer:
 
-```
 e900
-```
 
 A fonte possui o ícone.
-
+```
 ---
 # 6. Testar o ícone
 

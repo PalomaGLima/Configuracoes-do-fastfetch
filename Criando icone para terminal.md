@@ -234,9 +234,7 @@ Terminal
  ↓
 Fastfetch
 ```
-
-Agora seu terminal possui um ícone personalizado.
-## 📸 Pré-visualização
+## 📸 Agora seu terminal possui um ícone personalizado.
 
 ![Preview do Terminal](icon.png)
 ---

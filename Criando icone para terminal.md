@@ -57,38 +57,28 @@ Passos:
 
 2. Clique:
 
-```
-
 Import Icons
 
 ```
-
+```
 3. Escolha seu SVG
 
 4. Clique no ícone
 
 5. Vá em:
 
-```
-
 Font → Generate Font
-
 ```
-
+```
 6. Defina o código Unicode:
 
 Exemplo:
 
-```
-
 E900
 
 ```
-
-Resultado:
-
 ```
-
+Resultado:
 \uE900
 
 ````

@@ -45,14 +45,11 @@ A imagem precisa ser transformada em vetor.
 🔗 Link:
 https://convertio.co/pt/download/89f126be126e98d1def67476cb25230d95f572/
 
-```
-
 # 3. Preparar o SVG como ícone vetorial
 
 O SVG precisa ser formado por caminhos (`path`).
 
 🔗 Site:
-```
 https://icomoon.io/app/#/select/font
 
 ```

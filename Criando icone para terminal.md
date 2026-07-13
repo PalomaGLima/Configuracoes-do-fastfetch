@@ -29,7 +29,7 @@ Usar no Fastfetch
 
 Entre no site e escolha um icone da sua preferencia.
 
-## Site para escolher o icone.
+Site para escolher o icone.
 
 🔗 Link:
 https://www.flaticon.com/search?word=cobra
@@ -38,7 +38,7 @@ https://www.flaticon.com/search?word=cobra
 
 A imagem precisa ser transformada em vetor.
 
-## Site para converter PNG → SVG
+Site para converter PNG → SVG
 
 🔗 Link:
 https://convertio.co/pt/download/89f126be126e98d1def67476cb25230d95f572/
